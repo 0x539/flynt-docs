@@ -19,10 +19,11 @@ These tools must be available in your system's PATH environment.
 
 |                    Command Line Tool                    | Version |
 | ------------------------------------------------------- | ------- |
-| [Node](https://nodejs.org/)                             | >= 6.0  |
-| [Composer](https://getcomposer.org/)                    | >= 1.2  |
-| [Yarn](https://yarnpkg.com/)*                           | >= 0.21 |
-| [PHPCS](https://github.com/squizlabs/PHP_CodeSniffer)** | >= 2.5  |
+| [Node](https://nodejs.org/)                             | >= 6.0     |
+| [Composer](https://getcomposer.org/)                    | >= 1.2     |
+| [WP-CLI](http://wp-cli.org/)                            | >= 0.22.0  |
+| [Yarn](https://yarnpkg.com/)*                           | >= 0.21    |
+| [PHPCS](https://github.com/squizlabs/PHP_CodeSniffer)** | >= 2.5     |
 
 \*_You can use npm as well, but Yarn is strongly recommended._  
 \*\*_Not strictly required, but strongly recommended._
