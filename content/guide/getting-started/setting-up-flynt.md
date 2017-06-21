@@ -21,6 +21,7 @@ These tools must be available in your system's PATH environment.
 | ------------------------------------------------------- | ------- |
 | [Node](https://nodejs.org/)                             | >= 6.0  |
 | [Composer](https://getcomposer.org/)                    | >= 1.2  |
+| [WP-CLI](http://wp-cli.org/)                    | >= 0.22.0  |
 | [Yarn](https://yarnpkg.com/)*                           | >= 0.21 |
 | [PHPCS](https://github.com/squizlabs/PHP_CodeSniffer)** | >= 2.5  |
 
